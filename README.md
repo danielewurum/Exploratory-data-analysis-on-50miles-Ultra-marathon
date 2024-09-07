@@ -1,2 +1,9 @@
 # Exploratory-data-analysis-on-50miles-Ultra-marathon
-This repository contains analysis on ultra marathon between 1798 to 2022.
+SUMMARY OF THE ULTRA MARATHON ANALYSIS
+Marathon as we all know is a long distance race event with a distance of 42kilometres. While Ultra-marathon on the other hand  is any marathon that exceeds the traditional maracthon of 42Kms.
+This dataset was gotten from Kaggle('https://www.kaggle.com/code/prantosifat/ultra-marathon-running') and it takes note of all the ultra-marathon events between 1798 to 2022. the dataset has a total records of 7,461,195 and 13 columns which include Athlete ID, average speed, data of race, total number of people who finished the race etc.
+The aim of this analysis is to focus on the 50km and 50mile races over the years and also determine the athlete performances across different seasons of the year. 
+From the analysis, we were able to deduce the following;
+1	- The athletes performed better during fall season with an average speed performance of 7.51mi/hr across 1997 races in the 50miles competition due to better environmental conditions. The performance of athletes during Spring season drastically reduced to an average speed of 7.08mi/hr across 838 races largely due to high humidity and wind that is common during spring season. The performance of athletes during winter were similar to that of spring, with an average speed of 7.04mi/hr across 1977 races. Summer had the worst performance for athletes with an average speed of 6.5mi/hr due to conditions like high temperature and humidity. These adverse conditions bring about dehydration and electrolyte imbalance which then lead to fatigue.
+2	– The Younger athletes have a better average performance when compared to the older athletes due to better muscles contraction and relaxation time, flexibility, higher level of testosterones and growth hormone etc. From the analysis, you see the average speed performance of athletes kept declining as the age increases.
+
